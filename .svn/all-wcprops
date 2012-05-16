@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/19/trunk/roap-jsep
+END
+fake_jsep.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18/trunk/roap-jsep/fake_jsep.js
+END
+doacall.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/roap-jsep/doacall.html
+END
+run_tests
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/18/trunk/roap-jsep/run_tests
+END
+roap_on_jsep_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/trunk/roap-jsep/roap_on_jsep_test.js
+END
+roap_on_jsep.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18/trunk/roap-jsep/roap_on_jsep.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/19/trunk/roap-jsep/README
+END
